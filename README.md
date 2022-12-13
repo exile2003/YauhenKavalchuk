@@ -68,6 +68,12 @@
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
+<img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
 ---
 
